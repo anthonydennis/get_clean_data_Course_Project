@@ -5,7 +5,7 @@ This assignment is the Course Project for the Johns Hopkins University course: G
 This course is offered through the Coursera MOOC website
 
 ## Part 1 - Merge Training and Test Data
-## =====================================
+
 
 - Load the train data
 - Load the test data
@@ -16,7 +16,7 @@ This course is offered through the Coursera MOOC website
 - merge the data to create one data set
 
 ## Part 2 - Create the Independent Tidy Data Set
-## =============================================
+
 
 - Select only those measurements that relate to mean and standard deviation of each measurement
  This is step 2 assignment instructions.  However, I found it easier to do this step after the merging
